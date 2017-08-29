@@ -16,9 +16,9 @@ def topology():
     h1 = net.addStation('h1', ip='172.16.10.1/27')
     h2 = net.addStation('h2', ip='172.16.10.33/27')
     h3 = net.addStation('h3', ip='172.16.10.65/27')
-    h4 = net.addStation('h4', ip='172.16.10.30/27')
-    h5 = net.addStation('h5', ip='172.16.10.62/27')
-    h6 = net.addStation('h6', ip='172.16.10.94/27')
+    h4 = net.addStation('h4', ip='172.16.10.2/27')
+    h5 = net.addStation('h5', ip='172.16.10.34/27')
+    h6 = net.addStation('h6', ip='172.16.10.66/27')
     s1 = net.addSwitch('s1')
     c0 = net.addController('c0', controller=Controller, ip='172.16.10.0', port=6633)
 
