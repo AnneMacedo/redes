@@ -1,0 +1,22 @@
+Questão 01. O que seria o protocolo RADIUS?
+    RADIUS (Remote Authentication Dial In User Service) é um protocolo de gerenciamento de autenticação, autorização e accounting, ele é muito usado por ISP's nas empresas no gerenciamento de acesso a internet ou intranet. O RADIUS se basea em perguntas e respotas, utilizando o protocolo de transporte UDP.O RADIUS serve na autenticação de dispositivos/usuários, verificando-o e autorizar determinador recursos da rede.
+    
+Questão 02. Após identificar o protocolo RADIUS, procure sua RFC correspondente e identifique informações relacionadas a ela, como autores, data, número da RFC e demais informações que você julgue serem importantes.
+    RFC 2865 (RADIUS):
+          Autores -> C. Rigney, S. Willens, Livingston, A. Rubens, Merit, W. Simpson Daydreamer;
+          Data -> Junho de 2000;
+          Nº da RFC -> 2865;
+          Versões -> 2868, 3575, 5080, 6929, 8044;
+          Versões Obsoletas -> 2138;
+          
+    RFC 2866 (RADIUS Accounting):
+          Autores -> C. Rigney, Livingston;
+          Data -> Junho de 2000;
+          Nº da RFC -> 2865;
+          Versões -> 2867, 5080, 5997;
+          Versões Obsoletas -> 2139.
+          
+Questão 03. Quais são os 3 tipos de mensagens trocadas entre cliente e servidor?
+
+
+Questão 04. Considerando o primeiro tipo de mensagem trocada entre cliente e servidor, busque fazer uma correlação do que está contido no cabeçalho do pacote RADIUS com o que está descrito em sua RFC.
