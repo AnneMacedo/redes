@@ -20,3 +20,8 @@ Questão 03. Quais são os 3 tipos de mensagens trocadas entre cliente e servido
 
 
 Questão 04. Considerando o primeiro tipo de mensagem trocada entre cliente e servidor, busque fazer uma correlação do que está contido no cabeçalho do pacote RADIUS com o que está descrito em sua RFC.
+
+USERNAME = Este atributo indica o nome do usuário a ser autenticado.
+ Identificador de acesso à rede
+                 Um identificador de acesso à rede como descrito na RFC 2486
+           
