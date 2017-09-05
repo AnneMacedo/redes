@@ -1,3 +1,15 @@
+    Parte 1
+    
+Questão 1)
+  Procoloco: 802.11
+  A IEEE 802.11 é uma rede sem fio, mais conhecida como wireless, atua na camada física defininfo uma série de padrões de transmissão e codificação para comunicações sem fio.
+  Informações importantes:  
+            Encapsulation type: IEEE 802.11 plus radiotap radio header (23)
+            Frequency: 2462 MHz
+            Interface id: 0 (mon0)
+  
+    Parte 2
+    
 Questão 1)
   Manter a estabilidade das redes sem fio nos lugares atingidos pelo Harvey, evitando que seus usuários fiquem sem rede em situações pós catatosfres.
 Questão 2)
