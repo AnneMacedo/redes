@@ -1,5 +1,4 @@
 Questão 1)
-  
-https://www.cnet.com/google-amp/news/hurricane-harvey-phone-service/
-
-https://translate.google.com.br/translate?sl=en&tl=pt&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=https%3A%2F%2Fwww.cnet.com%2Fgoogle-amp%2Fnews%2Fhurricane-harvey-phone-service%2F&edit-text=&act=url
+  Manter a estabilidade das redes sem fio nos lugares atingidos pelo Harvey, evitando que seus usuários fiquem sem rede em situações pós catatosfres.
+Questão 2)
+  Small cells são pequenas antenas usada para ampliar o sinal da rede de celular, enquanto o 5G precisa ser mais eficiente para dar conta de um enorme número de dispositivos conectados, logo, ambas as tecnologias podem ser adaptadas para funcionarem juntas, ampliando cada vez mais a corbetura e garantindo melhor estabilidade em um rede que, futuramente, possa conectar inúmeros dispositivos, como drones, carros autônomos, entre outros.
