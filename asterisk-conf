@@ -1,0 +1,12 @@
+por placa de rede em modo bridge
+definir ip
+default gateway
+arquivo doc -> editar arquivos utilizar --> ssh para usar teclado do pcreal 
+ssh root@ip
+
+/etc/init.d/asterisk restart
+/etc/init.d/fail2ban stop
+
+ip -> 10.17.11.213
+
+microcontrolador raspberry -> ligações a distancia
